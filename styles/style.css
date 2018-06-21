@@ -19,15 +19,15 @@ color: rgb(122,123,127);
 
 	background-color:white;
 	max-width:460px;
-	max-height: 465px;
+	
 	margin:auto;
 	position: absolute;
 	border-radius: 4px;
 	top:12%;
 	left: 0;
 	right: 0;
-	padding: 30px;
-	
+	padding: 30px 30px 60px 30px;
+
 }
 
 h1{
@@ -41,6 +41,9 @@ display: inline-block;
 
 p{
 	font-size: 13px;
+}
+.form p{
+	padding-bottom: 30px;
 }
 
 a{
