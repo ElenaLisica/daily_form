@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+	font-family: Arial;
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background: linear-gradient(to bottom left, #dd2476, #ff512f );
+}
+html, body{
+	height: 100%;
+}
+.form_{
+
+	background-color:white;
+	max-width:458px;
+	max-height: 465px;
+	margin:auto;
+	position: absolute;
+	border-radius: 4px;
+	top:12%;
+	left: 0;
+	right: 0;
+}
